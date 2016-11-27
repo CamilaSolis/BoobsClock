@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Helvetica";
+}
+.row{
+	margin: 0;
+	padding:0;
+}
+body{
+	background-color: #FFD0F3;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.minilogo{
+	text-align: right;
+}
+.head{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	background-color: white;
+	color: #3b3b3b;
+	font-size: 18px;
+}
+.head img{
+	width: 100%;
+}
+.btn-rosa{
+	background-color: #f090a6;
+	color: white;
+}
+.btn-face{
+	background-color: #3b5998;
+	color: white;
+}
+a{
+	width: 100%;
+	margin: 3% 0;
+	font-size: 18px;
+}
+.checkbox{
+	color: #c74490;
+}
+.fperfil{
+	width: 70%;
+	margin: auto;
+}
+.fperfil img{
+	width: 100%;
+}
+.sex{
+	text-align: center;
+	color: #3b3b3b;
+	font-size: 15;
+}
